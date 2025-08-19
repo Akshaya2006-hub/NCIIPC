@@ -1,0 +1,10 @@
+# Ignore DeepShip folder
+DeepShip/
+
+# Ignore results.json file
+results.json
+
+# Optional: Ignore Python cache and virtual environment
+__pycache__/
+*.pyc
+venv/
